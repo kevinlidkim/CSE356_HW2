@@ -1,0 +1,14 @@
+{
+  "name": "eliza",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "~4.13.4",
+    "method-override": "^2.3.6",
+    "mongodb": "^2.2.24"
+  }
+}
